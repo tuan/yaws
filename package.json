@@ -2,7 +2,7 @@
   "name": "yaws",
   "displayName": "Yaws",
   "description": "Yet Another Word based Suggestions",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "icon": "images/yaws-icon.png",
   "repository": {
     "type": "git",

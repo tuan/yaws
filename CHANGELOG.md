@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.0.4 - 2024-01-31
+
+- Allows to match on file name in QuickPick window.
+
 ## 0.0.3 - 2024-01-31
 
 - Adds icon for the extension
