@@ -1,4 +1,4 @@
-# Yaws README
+# Yaws
 
 This is yet another word based suggestions extension. It shows of list of words from all open text documents that start with the current word.
 
