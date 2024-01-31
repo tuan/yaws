@@ -19,3 +19,4 @@ You can assign a shortcut to command with this is `yaws.suggestWord` to show the
 - You have to type at 3 characters to trigger the suggestion list. This is by design to limit the number of suggestions. The list could be potentially large because the extensions show matches from all open documents.
 - The matching algorithm is a simple regex match that is case insensitve.
 - This extension can be slow if you have too many large text documents open.
+- When vscode first starts, you have to view the documents at least once otherwise the document text is not loaded and will not be used to match.
