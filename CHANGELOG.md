@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.0.2 - 2024-01-31
+
+- Matches only words that are longer than the current word.
+
 ## 0.0.1 - 2024-01-30
 
 - Initial release

@@ -14,7 +14,7 @@ export async function showSuggestions(
     return undefined;
   }
 
-  const regex = new RegExp(`\\b${currentWord}\\w*\\b`, "gi");
+  const regex = new RegExp(`\\b${currentWord}\\w+\\b`, "gi");
 
   const result = new Set<string>();
   for (const doc of vscode.workspace.textDocuments) {
