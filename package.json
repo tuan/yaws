@@ -2,7 +2,7 @@
   "name": "yaws",
   "displayName": "Yaws",
   "description": "Yet Another Word based Suggestions",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "icon": "images/yaws-icon.png",
   "repository": {
     "type": "git",
@@ -10,7 +10,7 @@
   },
   "publisher": "tuannguyen",
   "engines": {
-    "vscode": "^1.85.0"
+    "vscode": "^1.45.0"
   },
   "categories": [
     "Other"
