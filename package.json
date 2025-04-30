@@ -2,7 +2,7 @@
   "name": "yaws",
   "displayName": "Yaws",
   "description": "Yet Another Word based Suggestions",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "icon": "images/yaws-icon.png",
   "repository": {
     "type": "git",
@@ -15,7 +15,9 @@
   "categories": [
     "Other"
   ],
-  "activationEvents": [],
+  "activationEvents": [
+    "onStartupFinished"
+  ],
   "main": "./out/extension.js",
   "contributes": {
     "commands": [
