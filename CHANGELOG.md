@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.0.6 - 2025-04-29
+
+- Limit search to only visited files
+
 ## 0.0.5 - 2024-03-02
 
 - Update required vscode version to ^1.45.0
